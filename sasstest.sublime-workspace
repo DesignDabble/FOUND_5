@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
 				"p",
 				"pad	padding"
 			],
@@ -22,14 +34,6 @@
 			[
 				"po",
 				"position"
-			],
-			[
-				"font",
-				"font-family"
-			],
-			[
-				"margin",
-				"margin-left"
 			],
 			[
 				"contain",
@@ -62,10 +66,6 @@
 			[
 				"bd",
 				"BDB88D"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"paddin",
@@ -139,32 +139,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6305,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/app.css",
-			"settings":
-			{
-				"buffer_size": 321546,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "stylesheets/custom_app.css",
-			"settings":
-			{
-				"buffer_size": 699,
-				"line_ending": "Unix",
-				"name": "custom_app.css"
-			}
-		},
-		{
-			"file": "essentials.html",
-			"settings":
-			{
-				"buffer_size": 5731,
+				"buffer_size": 8159,
 				"line_ending": "Unix"
 			}
 		},
@@ -177,10 +152,19 @@
 			}
 		},
 		{
-			"file": "scss/app.scss",
+			"file": "stylesheets/custom_app.css",
 			"settings":
 			{
-				"buffer_size": 1473,
+				"buffer_size": 2906,
+				"line_ending": "Unix",
+				"name": "custom_app.css"
+			}
+		},
+		{
+			"file": "stylesheets/app.css",
+			"settings":
+			{
+				"buffer_size": 321563,
 				"line_ending": "Unix"
 			}
 		}
@@ -188,13 +172,9 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 315.0,
 		"selected_items":
 		[
-			[
-				"schemr",
-				"Schemr: List favorite schemes"
-			],
 			[
 				"comm",
 				"Git: Commit"
@@ -204,12 +184,28 @@
 				"Git: Add..."
 			],
 			[
-				"emmet r",
-				"Emmet: Remove Tag"
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"zf",
+				"Snippet: ZURB Foundation 5 Tabs"
 			],
 			[
 				"schem",
 				"Schemr: List favorite schemes"
+			],
+			[
+				"schemr",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"emmet r",
+				"Emmet: Remove Tag"
 			],
 			[
 				"dest",
@@ -266,10 +262,6 @@
 			[
 				"emmett",
 				"Emmet: Remove Tag"
-			],
-			[
-				"com",
-				"Git: Commit"
 			],
 			[
 				"pane be",
@@ -694,17 +686,9 @@
 			[
 				"git sta",
 				"Git: Status"
-			],
-			[
-				"move",
-				"Origami: Move File to Pane Below"
-			],
-			[
-				"pane bel",
-				"Origami: Create Pane Below"
 			]
 		],
-		"width": 486.0
+		"width": 562.0
 	},
 	"console":
 	{
@@ -724,16 +708,24 @@
 	},
 	"file_history":
 	[
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/essentials.css",
+		"/Users/Home/Desktop/test/FOUND_5/essentials.html",
+		"/Users/Home/Desktop/test/FOUND_5/stylesheets/scrollto.js",
+		"/Users/Home/Desktop/test/FOUND_5/js/app.js",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/css.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-supports.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-subpixelfont.js",
+		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-scrollbars.js",
+		"/Users/Home/Desktop/test/FOUND_5/config.rb",
+		"/Users/Home/Downloads/Bad.Country.2014.1080p.WEB-DL.H264-PublicHD/Bad.Country.2014.1080p.WEB-DL.H264-PublicHD.nfo",
+		"/Users/Home/Downloads/Coollector.Movie.Database.v4.0.9.MacOSX.Retail-CORE/CORE.NFO",
+		"/Users/Home/Desktop/test/FOUND_5/scss/app.scss",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/jquery/src/ajax/script.js",
 		"/Users/Home/Desktop/test/FOUND_5/sasstest.sublime-project",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/es5-strictmode.js",
-		"/Users/Home/Desktop/test/FOUND_5/essentials.html",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/performance.js",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/pointerlock-api.js",
 		"/Users/Home/Desktop/test/FOUND_5/bower_components/foundation/scss/foundation/components/_panels.scss",
-		"/Users/Home/Desktop/test/FOUND_5/bower_components/modernizr/feature-detects/css-scrollbars.js",
-		"/Users/Home/Desktop/test/FOUND_5/config.rb",
 		"/Users/Home/Desktop/test/html/test.sublime-project",
 		"/Users/Home/Desktop/Essentials/Essentials/css/foundation.min.css",
 		"/Users/Home/Downloads/Mizage.Divvy.v1.3.8.MacOSX.Incl.Keymaker.and.Patch-CORE/core.nfo",
@@ -843,19 +835,11 @@
 		"/Users/Home/Desktop/5.1/F5/css/custom.css",
 		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/LiveStyle.sublime-settings",
 		"/Users/Home/Downloads/Tuts+ - Designing Portfolio/tuts.tgz",
-		"/Users/Home/Desktop/5.1/F5/temp.html",
-		"/Users/Home/Desktop/5.1/F5/humans.txt",
-		"/Users/Home/Downloads/upgrading.html",
-		"/Volumes/Documents/Etc/Tech/windows key 1.7.14.txt",
-		"/Users/Home/Downloads/Adobe Photoshop CC 14.2 Final Multilanguage [ChingLiu]/ChingLiu.Install.Notes.nfo",
-		"/Users/Home/Desktop/5.1/F5/f.sublime-project",
-		"/Users/Home/Desktop/5.1/F5/offcanvas.html",
-		"/Users/Home/Desktop/5.1/F5/leftovers.html",
-		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings"
+		"/Users/Home/Desktop/5.1/F5/temp.html"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -876,6 +860,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"4rem",
+			"solid",
 			"center",
 			"hover",
 			"body",
@@ -1001,9 +987,7 @@
 			"font-family",
 			"font",
 			"font-family",
-			"button",
-			"90%",
-			"menu"
+			"button"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1035,7 +1019,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1044,15 +1028,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6305,
+						"buffer_size": 8159,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1501,
-								1501
+								463,
+								463
 							]
 						],
 						"settings":
@@ -1062,110 +1046,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 372.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "stylesheets/app.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 321546,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								229276,
-								229283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 142656.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "stylesheets/custom_app.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 699,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								622,
-								622
-							]
-						],
-						"settings":
-						{
-							"auto_name": "custom_app.css",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "essentials.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5731,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1525,
-								1525
-							]
-						],
-						"settings":
-						{
-							"history_list_is_closing": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 651.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "stylesheets/essentials.css",
 					"semi_transient": false,
 					"settings":
@@ -1177,8 +1065,8 @@
 						"selection":
 						[
 							[
-								2050,
-								2050
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1188,38 +1076,81 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 917.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 5,
-					"file": "scss/app.scss",
+					"buffer": 2,
+					"file": "stylesheets/custom_app.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1473,
+						"buffer_size": 2906,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								131
+								2129,
+								2129
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "custom_app.css",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1352.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "stylesheets/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211406,
+								211406
+							],
+							[
+								212760,
+								212760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 148944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1227,7 +1158,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1253,7 +1184,7 @@
 		"cols":
 		[
 			0.0,
-			0.526788414286,
+			0.493620513009,
 			1.0
 		],
 		"rows":
@@ -1274,7 +1205,7 @@
 	"project": "sasstest.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1283,12 +1214,16 @@
 		"selected_items":
 		[
 			[
-				"scss",
-				"FOUND_5/scss/app.scss"
+				"app",
+				"FOUND_5/js/app.js"
 			],
 			[
 				"ess",
 				"FOUND_5/stylesheets/essentials.css"
+			],
+			[
+				"scss",
+				"FOUND_5/scss/app.scss"
 			],
 			[
 				"appcss",
@@ -1445,10 +1380,6 @@
 			[
 				"ht",
 				"custom.html"
-			],
-			[
-				"app",
-				"css/app.css"
 			],
 			[
 				"j",
